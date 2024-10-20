@@ -1,0 +1,1 @@
+# Gauss-equation-method-
